@@ -1,0 +1,32 @@
+h1,h2,h3,h4{
+    color:white;
+}
+header{
+    vertical-align: middle;
+}
+article,nav{
+    color:white;
+}
+}
+p{
+    color:white;
+}
+h1,h2,h3,h4{
+    text-align: center;
+}
+header{background-color:black;
+}
+article{background-color:black;
+margin-bottom: ;}
+
+section{
+    background-color: black;
+}
+nav{color:red;
+    background-color: white;
+}
+a{display:block;
+text-align: center;
+margin:5px;
+padding:10px;
+background-color:black;}
